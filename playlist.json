@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Chuttamalle",
+    "file": "music/Chuttamalle.mp3",
+    "cover": "images/chuttamalle.jpg"
+  },
+  {
+    "title": "brown rang",
+    "file": "music/Brown Rang.mp3",
+    "cover": "images/brown rang.jpg"
+  },
+  {
+    "title": "Sanam re",
+    "file": "music/sanam re.mp3",
+    "cover": "images/Sanam-Re.jpg"
+  },
+  {
+    "title": "chahun main ya naa",
+    "file": "music/Chahun Main Ya Naa.mp3",
+    "cover": "images/aashiqui 2.jpg"
+  },
+  {
+    "title": "pehle bhi main",
+    "file": "music/Pehle Bhi Main.mp3",
+    "cover": "images/animal.jpg"
+  },
+  {
+    "title": "khairiyat",
+    "file": "music/Khairiyat.mp3",
+    "cover": "chhichhore.jpg"
+  },
+  {
+    "title": "perfect",
+    "file": "music/Perfect.mp3",
+    "cover": "images/perfect.jpg"
+  },
+  {
+    "title": "sahiba",
+    "file": "music/Sahiba.mp3",
+    "cover": "images/Sahiba.jpg"
+  }
+]

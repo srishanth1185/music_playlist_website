@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>My Music Playlist</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <h1 class="main-title">🎶 My Music Playlist 🎶</h1>
+
+  <!-- Search Bar above player -->
+  <input type="text" id="search" placeholder="Search songs or albums..." class="search-bar">
+
+  <div class="player-container">
+    <!-- Left: Cover & Now Playing -->
+    <div class="left-panel">
+      <img id="cover" src="images/chuttamalle.jpg" alt="Cover" class="cover">
+      <h2 id="now-playing">Now Playing: None</h2>
+      <h3 id="album-name"></h3>
+    </div>
+
+    <!-- Center: Controls -->
+    <div class="center-panel">
+      <audio id="audio" controls></audio>
+      <div class="controls">
+        <button id="prev">⏮ Prev</button>
+        <button id="play-pause">▶️ / ⏸</button>
+        <button id="next">⏭ Next</button>
+      </div>
+    </div>
+  </div>
+
+  <!-- Horizontal Playlist -->
+  <div class="playlist-horizontal" id="playlist"></div>
+
+  <script src="script.js"></script>
+</body>
+</html>
+
+
+
+
+
+
+
